@@ -1,0 +1,35 @@
+IAM
+OIDC
+
+EC2 INSTANCE-UBUNTU T2MICRO 
+GO TO GOOGLE SEARCH FOR HOW TO INSTALL APACHE IN EC2
+go to secure group http 80 open http 40
+EC@ instance public ip browser - http://instance_ip
+go to google search for how to apply self signed ssl certificate in apache2 index.html
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+AWS CLI
+CLI
+AUTHENTICATION -- ACCESS KEY AND SECERET KEYS
+EC2 INSTANCE FROM MY LOCAL SYSTEM
+
+----------------------------------------------------------------------------------------------------------------------------------------
+How to host static website on S3 AWS
+    -first open website 
+        -1.index.html  
+        -2. upload to S3
+        -4. enable public access of object -(go to permissions)
+        -5. add policy to s3 for object
+    by default if 
+    it redirects to default error page
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------JENKINS-------------------------------------------------------------------
+1. What is CI/CD?
+2.WHY JENKINS?
+3.HOW TO INSTALL JENKINS?
+4.DEPLOY SAMPLE PHP APP USING JENKINS.
+GITHUB --> JENKINS --> EC2 INSTANCE 
